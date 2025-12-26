@@ -3,4 +3,6 @@
   "content_in_root": false,
   "domains": ["integration"],
   "homeassistant": "2025.12.2"
+   "repo": "https://github.com/RESONANCE111/ha_tcp_port_monitor"
 }
+
