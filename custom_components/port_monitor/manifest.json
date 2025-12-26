@@ -1,9 +1,0 @@
-{
-  "domain": "port_monitor",
-  "name": "TCP Port Monitor",
-  "version": "1.0.5",
-  "documentation": "https://github.com/<yourname>/yourrepo",
-  "issue_tracker": "https://github.com/<yourname>/yourrepo/issues",
-  "codeowners": ["@<yourgithub>"],
-  "requirements": []
-}
