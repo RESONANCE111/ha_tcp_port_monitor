@@ -1,0 +1,29 @@
+{
+  "title": "Local TCP Port Monitor",
+  "config": {
+    "step": {
+      "user": {
+        "title": "Add TCP Port",
+        "data": {
+          "host": "Host",
+          "port": "Port",
+          "scan_interval": "Scan interval (seconds)",
+          "timeout": "Timeout (seconds)",
+          "retries": "Retries"
+        }
+      }
+    }
+  },
+  "options": {
+    "step": {
+      "init": {
+        "title": "Options",
+        "data": {
+          "scan_interval": "Scan interval (seconds)",
+          "timeout": "Timeout (seconds)",
+          "retries": "Retries"
+        }
+      }
+    }
+  }
+}
