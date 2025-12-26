@@ -2,8 +2,9 @@
   "domain": "port_monitor",
   "name": "TCP Port Monitor",
   "version": "1.0.5",
-  "documentation": "https://github.com/<yourname>/yourrepo",
-  "issue_tracker": "https://github.com/<yourname>/yourrepo/issues",
-  "codeowners": ["@<yourgithub>"],
+  "documentation": "https://github.com/RESONANCE111/ha_tcp_port_monitor",
+  "issue_tracker": "https://github.com/RESONANCE111/ha_tcp_port_monitor/issues",
+  "codeowners": ["@RESONANCE111"],
   "requirements": []
 }
+
